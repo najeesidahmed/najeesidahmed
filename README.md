@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najeesidahmed
 - 👀 I’m interested in creative design and development, among other things. 
-- 🌱 I’m studying towards a degree in Maths and Computer Science, and currently learning React and Next.js. 
+- 🌱 I'm a Web Developer at a start-up, and currently building React and Next.js projects in my free time. 
 - 💞️ I’m looking to collaborate on open source projects in Python and Javascript.
 - 📫 How to reach me..
   Email: najeekamil@msn.com
