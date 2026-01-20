@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @najeesidahmed
 - 👀 I’m interested in creative design and development, among other things. 
 - 🌱 I'm a Web Developer at a start-up, and currently building React and Next.js projects in my free time. 
-- 💞️ I’m looking to collaborate on open source projects in Python and Javascript.
+- 💞️ I’m looking to collaborate on open source projects in Next.js and React.
 - 📫 How to reach me..
   Email: najeekamil@msn.com
-  Twitter: @najeesidah
   Linkedin: linkedin.com/in/najee-sidahmed
 
 <!---
